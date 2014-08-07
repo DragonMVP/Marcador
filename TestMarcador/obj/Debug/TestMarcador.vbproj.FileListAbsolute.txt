@@ -1,0 +1,63 @@
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\bin\Debug\TestMarcador.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\bin\Debug\TestMarcador.xml
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\obj\Debug\TestMarcador.Resources.resources
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\obj\Debug\TestMarcador.exe
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\obj\Debug\TestMarcador.xml
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\obj\Debug\TestMarcador.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\bin\Debug\apiTR515x.dll
+c:\users\daniel\documents\visual studio 2012\Projects\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbprojResolveAssemblyReference.cache
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\obj\Debug\TestMarcador.exe
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\obj\Debug\TestMarcador.xml
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\obj\Debug\TestMarcador.pdb
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\bin\Debug\TestMarcador.pdb
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\bin\Debug\TestMarcador.xml
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbprojResolveAssemblyReference.cache
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\obj\Debug\TestMarcador.Resources.resources
+D:\UNITECRD\Project_Marcador\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbproj.GenerateResource.Cache
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\obj\Debug\TestMarcador.exe
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\obj\Debug\TestMarcador.xml
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\obj\Debug\TestMarcador.pdb
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbprojResolveAssemblyReference.cache
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\obj\Debug\TestMarcador.Resources.resources
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbproj.GenerateResource.Cache
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\bin\Debug\TestMarcador.pdb
+C:\Users\Luis Martinez\Desktop\Hola Mundo\TestMarcador\TestMarcador\bin\Debug\TestMarcador.xml
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\obj\Debug\TestMarcador.exe
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\obj\Debug\TestMarcador.xml
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\obj\Debug\TestMarcador.pdb
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\bin\Debug\TestMarcador.exe
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\bin\Debug\TestMarcador.pdb
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\bin\Debug\TestMarcador.xml
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\obj\Debug\TestMarcador.Resources.resources
+C:\Users\Kevin Barahona\Desktop\TestMarcador\TestMarcador\obj\Debug\TestMarcador.vbproj.GenerateResource.Cache
+C:\Users\Luis Martinez\VBProjects\testmarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+C:\Users\Luis Martinez\VBProjects\testmarcador\TestMarcador\obj\Debug\TestMarcador.exe
+C:\Users\Luis Martinez\VBProjects\testmarcador\TestMarcador\obj\Debug\TestMarcador.xml
+C:\Users\Luis Martinez\VBProjects\testmarcador\TestMarcador\obj\Debug\TestMarcador.pdb
+C:\Users\Kevin Barahona\Desktop\TestMarcador\testmarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+C:\Users\Kevin Barahona\Desktop\TestMarcador\testmarcador\TestMarcador\obj\Debug\TestMarcador.exe
+C:\Users\Kevin Barahona\Desktop\TestMarcador\testmarcador\TestMarcador\obj\Debug\TestMarcador.xml
+C:\Users\Kevin Barahona\Desktop\TestMarcador\testmarcador\TestMarcador\obj\Debug\TestMarcador.pdb
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\obj\Debug\TestMarcador.exe
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\obj\Debug\TestMarcador.xml
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\obj\Debug\TestMarcador.pdb
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\bin\Debug\TestMarcador.exe
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\bin\Debug\TestMarcador.pdb
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\bin\Debug\TestMarcador.xml
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\obj\Debug\TestMarcador.vbprojResolveAssemblyReference.cache
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\obj\Debug\TestMarcador.Resources.resources
+C:\Users\OWNER\Source\Repos\testmarcador\TestMarcador\obj\Debug\TestMarcador.vbproj.GenerateResource.Cache
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\TestMarcador\bin\Debug\TestMarcador.exe.config
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\TestMarcador\obj\Debug\TestMarcador.exe
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\TestMarcador\obj\Debug\TestMarcador.xml
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\TestMarcador\obj\Debug\TestMarcador.pdb
