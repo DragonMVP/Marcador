@@ -10,18 +10,16 @@ Public Class ServiceMarcadores
     Private DataBase As Database
 
     Protected Overrides Sub OnStart(ByVal args As String())
-
-        ' MarcadoresConectados = 0
         Barreras = New List(Of Barrera)
         CheckConnection = New Thread(AddressOf CheckConnections)
         DataBase = New Database("192.168.218.130\sqlseguridad", "Carnetizacion", "sps", "sps123")
         DataBase.Conectar()
 
-        Dim DataBarreras As SqlDataReader = DataBase.Consulta("SELECT ip,puerto FROM barreras WHERE activo = 1")
+        Dim DataBarreras As SqlDataReader = DataBase.Consulta("SELECT ip,puerto,barrera FROM barreras WHERE activo = 1")
         If (DataBarreras.HasRows) Then
             Dim I As Integer = 0
             While (DataBarreras.Read)
-                Barreras.Add(New Barrera(DataBarreras("ip"), DataBarreras("puerto"), DataBase, I))
+                Barreras.Add(New Barrera(DataBarreras("ip"), DataBarreras("puerto"), DataBase, DataBarreras("barrera")))
                 Barreras(I).Conectar()
                 I += 1
             End While

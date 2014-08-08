@@ -24,4 +24,32 @@ Public Class Database
         Dim Command As New SqlCommand(Query, Connection)
         Command.ExecuteNonQuery()
     End Sub
+
+    Public Sub ExecuteStoredAcceso(ByVal pevCuenta As String, ByVal psvEstado As String, ByVal psvPerfil As String, ByVal psvBarrera As String)
+        Dim Command As New SqlCommand("RegistrarAcceso", Connection)
+        Command.CommandType = CommandType.StoredProcedure
+        Command.Parameters.Add("@pevCuenta", SqlDbType.VarChar)
+        Command.Parameters.Add("@psvEstado", SqlDbType.VarChar)
+        Command.Parameters.Add("@psvPerfil", SqlDbType.VarChar)
+        Command.Parameters.Add("@psvBarrera", SqlDbType.VarChar)
+        Command.Parameters("@pevCuenta").Value = pevCuenta
+        Command.Parameters("@psvEstado").Value = psvEstado
+        Command.Parameters("@psvPerfil").Value = psvPerfil
+        Command.Parameters("@psvBarrera").Value = psvBarrera
+
+        Command.ExecuteNonQuery()
+    End Sub
+
+    Public Sub ExecuteStoredLogGeneral(ByVal psvBarrera As String, ByVal psvErrorCapturado As String)
+        Dim Command As New SqlCommand("RegistrarLogGeneral", Connection)
+        Command.CommandType = CommandType.StoredProcedure
+        Command.Parameters.Add("@psvBarrera", SqlDbType.VarChar)
+        Command.Parameters.Add("@psvErrorCapturado", SqlDbType.VarChar)
+
+
+        Command.Parameters("@psvBarrera").Value = psvBarrera
+        Command.Parameters("@psvErrorCapturado").Value = psvErrorCapturado
+
+        Command.ExecuteNonQuery()
+    End Sub
 End Class
