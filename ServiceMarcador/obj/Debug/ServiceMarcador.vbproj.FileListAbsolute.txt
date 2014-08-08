@@ -1,0 +1,11 @@
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\bin\Debug\Barreras.exe
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\bin\Debug\Barreras.pdb
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\bin\Debug\Barreras.xml
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\bin\Debug\AMS.Profile.dll
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\bin\Debug\apiTR515x.dll
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\obj\Debug\Barreras.Resources.resources
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\obj\Debug\Barreras.ProjectInstaller.resources
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\obj\Debug\ServiceMarcador.vbproj.GenerateResource.Cache
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\obj\Debug\Barreras.exe
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\obj\Debug\Barreras.xml
+C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\ServiceMarcador\obj\Debug\Barreras.pdb
