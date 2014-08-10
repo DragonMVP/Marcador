@@ -7,3 +7,6 @@ C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\TestService\obj\Debug\
 C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\TestService\obj\Debug\TestService.exe
 C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\TestService\obj\Debug\TestService.xml
 C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\TestService\obj\Debug\TestService.pdb
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\TestService\obj\Debug\TestService.exe
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\TestService\obj\Debug\TestService.xml
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\TestService\obj\Debug\TestService.pdb

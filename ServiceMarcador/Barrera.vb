@@ -73,7 +73,11 @@ Public Class Barrera
                 Dim Lectura As String = (Marcador.leerRegistroModoExtendido())
                 If ValidarEntrada(Lectura) Then
                     Dim PartesLectura As String() = Lectura.Split(",")
-                    Dim Consulta As SqlDataReader = DB.Consulta("SELECT estado FROM informacionX WHERE codigoCarne = '" + PartesLectura.GetValue(1).ToString + "'")
+                    If (PartesLectura.GetValue(1).StartsWith("<")) Then
+                        Dim NewCodigo As String = PartesLectura.GetValue(1).ToString().Replace("<", "C")
+                        PartesLectura.SetValue(NewCodigo, 1)
+                    End If
+                    Dim Consulta As SqlDataReader = DB.Consulta("SELECT estado FROM informacionX WHERE codigoCarne = '" + PartesLectura.GetValue(1).ToString.TrimEnd + "'")
                     Dim RANGO As String
                     RANGO = PartesLectura.GetValue(1).ToString.Substring(0, 2)
                     If (Consulta.Read) Then
