@@ -13,10 +13,10 @@ Public Class ServiceMarcadores
 
     Protected Overrides Sub OnStart(ByVal args As String())
         ConfigFile = New Ini(AppDomain.CurrentDomain.BaseDirectory + "Servidor.ini")
-        Dim IPServidor = ConfigFile.GetValue("Servidor", "IP")
-        Dim DatabaseName = ConfigFile.GetValue("Servidor", "Database")
-        Dim Username = ConfigFile.GetValue("Servidor", "Username")
-        Dim Password = ConfigFile.GetValue("Servidor", "Password")
+        Dim IPServidor As String = ConfigFile.GetValue("Servidor", "IP")
+        Dim DatabaseName As String = ConfigFile.GetValue("Servidor", "Database")
+        Dim Username As String = ConfigFile.GetValue("Servidor", "Username")
+        Dim Password As String = ConfigFile.GetValue("Servidor", "Password")
 
         Barreras = New List(Of Barrera)
         CheckConnection = New Thread(AddressOf CheckConnections)
