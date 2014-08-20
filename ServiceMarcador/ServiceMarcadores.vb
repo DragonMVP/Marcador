@@ -2,17 +2,25 @@
 Imports System.IO
 Imports System.Net.NetworkInformation
 Imports System.Data.SqlClient
+Imports AMS.Profile
 
 Public Class ServiceMarcadores
     'Private MarcadoresConectados As Integer
     Private CheckConnection As Thread
     Private Barreras As List(Of Barrera)
     Private DataBase As Database
+    Private ConfigFile As Ini
 
     Protected Overrides Sub OnStart(ByVal args As String())
+        ConfigFile = New Ini(AppDomain.CurrentDomain.BaseDirectory + "Servidor.ini")
+        Dim IPServidor = ConfigFile.GetValue("Servidor", "IP")
+        Dim DatabaseName = ConfigFile.GetValue("Servidor", "Database")
+        Dim Username = ConfigFile.GetValue("Servidor", "Username")
+        Dim Password = ConfigFile.GetValue("Servidor", "Password")
+
         Barreras = New List(Of Barrera)
         CheckConnection = New Thread(AddressOf CheckConnections)
-        DataBase = New Database("192.168.218.130\sqlseguridad", "Carnetizacion", "sps", "sps123")
+        DataBase = New Database(IPServidor, DatabaseName, Username, Password)
         DataBase.Conectar()
 
         Dim DataBarreras As SqlDataReader = DataBase.Consulta("SELECT ip,puerto,barrera FROM barreras WHERE activo = 1")

@@ -10,3 +10,16 @@ C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\Manager\obj\Debug\Serv
 C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\Manager\obj\Debug\Manager.exe
 C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\Manager\obj\Debug\Manager.xml
 C:\Users\Kevin Barahona\Desktop\Test\testmarcador\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\bin\Debug\Manager.exe.config
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\bin\Debug\Manager.exe
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\bin\Debug\Manager.pdb
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\bin\Debug\Manager.xml
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\bin\Debug\AMS.Profile.dll
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\ServiceManager.vbprojResolveAssemblyReference.cache
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\Manager.frmBarrera.resources
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\Manager.frmPrincipal.resources
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\Manager.Resources.resources
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\ServiceManager.vbproj.GenerateResource.Cache
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\Manager.exe
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\Manager.xml
+C:\Users\Kevin Barahona\Desktop\Test\Marcador\Manager\obj\Debug\Manager.pdb

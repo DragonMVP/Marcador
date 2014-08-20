@@ -17,6 +17,9 @@ Module Module1
     Private DataBase As Database
 
     Private Sub OnStart()
+
+
+
         HilosActivos = 0
         Barreras = New List(Of Barrera)
         CheckConnection = New Thread(AddressOf CheckConnections)
