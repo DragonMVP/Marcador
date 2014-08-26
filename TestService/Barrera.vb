@@ -73,7 +73,7 @@ Public Class Barrera
                 Dim Lectura As String = (Marcador.leerRegistroModoExtendido())
                 If ValidarEntrada(Lectura) Then
                     Dim PartesLectura As String() = Lectura.Split(",")
-                    If (PartesLectura.GetValue(1).StartsWith("<")) Then
+                    If (PartesLectura.GetValue(1).ToString.Contains("<")) Then
                         Dim NewCodigo As String = PartesLectura.GetValue(1).ToString().Replace("<", "C")
                         PartesLectura.SetValue(NewCodigo, 1)
                     End If
